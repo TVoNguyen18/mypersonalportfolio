@@ -1,27 +1,85 @@
 h1 {
-  font-family: arial;
+  font-family: klee;
   color: #c86a6a;
+  text-align: center;
+}
+
+h1.dotted {
+  border-style: dotted;
 }
 
 h3 {
-  font-family: arial;
+  font-family: klee;
   color: #cf7d7d;
+  text-align: center;
 }
 
 h4 {
-  font-family: arial;
+  font-family: klee;
   color: #d68f8f;
 }
 
 p {
-  font-family: arial;
+  font-family: klee;
 }
 
-div {
-  font-family: arial;
+.stylediv1 {
+  border-style: solid;
+  border-width: medium;
+  border-color: #dda2a2;
+  opacity: 0.5;
+}
+
+.stylediv2 {
+  border-style: solid;
+  border-width: thin;
+  border-color: #dda2a2;
+  opacity: 0.5;
 }
 
 a {
-  font-family: arial;
-  color:#dda2a2;
+  font-family: klee;
+  color: #dda2a2;
+}
+
+nav {
+  font-family: klee;
+  font-size: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #e3b5b5;
+  opacity: 0.75;
+}
+
+.ulnav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-size: 72px;
+  background-color: #b94646;
+  opacity: 0.75;
+}
+
+.linav {
+  float: left;
+}
+
+ul {
+  font-family: klee;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-family: "Nanum Pen Script";
+}
+
+li a:hover {
+  background-color: #a63f3f;
+  color: black;
 }
