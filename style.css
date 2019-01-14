@@ -23,6 +23,10 @@ p {
   font-family: klee;
 }
 
+ul {
+  font-family: klee;
+}
+
 .stylediv1 {
   border-style: solid;
   border-width: medium;
@@ -43,14 +47,15 @@ a {
 }
 
 nav {
-  font-family: klee;
-  font-size: 24px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #e3b5b5;
-  opacity: 0.75;
+  font-size: 72px;
+  background-color: #b94646;
+  opacity: 0.50;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px;
 }
 
 .ulnav {
@@ -67,19 +72,15 @@ nav {
   float: left;
 }
 
-ul {
-  font-family: klee;
-}
-
-li a {
-  display: block;
+nav a {
   color: white;
   padding: 8px 16px;
+  text-align: center;
   text-decoration: none;
   font-family: "Nanum Pen Script";
 }
 
-li a:hover {
+nav a:hover {
   background-color: #a63f3f;
   color: black;
 }
