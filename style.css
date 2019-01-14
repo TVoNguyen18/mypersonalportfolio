@@ -12,7 +12,7 @@ h2 {
 
 .h2border{
 
-  border: 1.5px solid #e3b5b5;
+  border: 2px solid #e3b5b5;
   border-radius: 10px;
 }
 
@@ -70,7 +70,7 @@ a {
   color: #dda2a2;
 }
 
-nav {
+/*nav {
   font-size: 56px;
   background-color: #b94646;
   opacity: 0.50;
@@ -85,6 +85,25 @@ nav a {
 }
 
 nav a:hover {
+  background-color: #a63f3f;
+  color: black;
+}*/
+
+.navHeader{
+  font-size: 56px;
+  background-color: #b94646;
+  opacity: 0.50;
+}
+
+.navHeader a {
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-family: "Nanum Pen Script";
+}
+
+.navHeader a:hover{
   background-color: #a63f3f;
   color: black;
 }
