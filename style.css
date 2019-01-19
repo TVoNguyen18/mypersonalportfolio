@@ -36,13 +36,13 @@ h4 {
   color: #d68f8f;
 }
 
-p {
+p, ul {
   font-family: klee, serif;
 }
 
-ul {
+/*ul {
   font-family: klee, serif;
-}
+}*/
 
 .stylediv1 {
   border-style: solid;
@@ -114,10 +114,10 @@ nav a:hover {
   padding: 0;
 }
 
-nav {
+nav, .image {
   text-align: center;
 }
 
-.image {
+/*.image {
   text-align: center;
-}
+}*/
