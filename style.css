@@ -1,17 +1,17 @@
 h1 {
-  font-family: klee;
+  font-family: klee, serif;
   color: #ba4545;
   text-align: center;
+  /*font-family: 'Special Elite', cursive;*/
 }
 
 h2 {
-  font-family: klee;
+  font-family: klee, serif;
   color: #c86a6a;
   text-align: center;
 }
 
 .h2border{
-
   border: 3px solid #e3b5b5;
   border-radius: 10px;
 }
@@ -26,22 +26,22 @@ body {
 }
 
 h3 {
-  font-family: klee;
+  font-family: klee, serif;
   color: #cf7d7d;
   text-align: center;
 }
 
 h4 {
-  font-family: klee;
+  font-family: klee, serif;
   color: #d68f8f;
 }
 
 p {
-  font-family: klee;
+  font-family: klee, serif;
 }
 
 ul {
-  font-family: klee;
+  font-family: klee, serif;
 }
 
 .stylediv1 {
@@ -66,7 +66,7 @@ ul {
 }
 
 a {
-  font-family: klee;
+  font-family: klee, serif;
   color: #dda2a2;
 }
 
@@ -100,7 +100,7 @@ nav a:hover {
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
-  font-family: "Nanum Pen Script";
+  font-family: "Nanum Pen Script", serif;
 }
 
 .navHeader a:hover{
@@ -115,5 +115,9 @@ nav a:hover {
 }
 
 nav {
+  text-align: center;
+}
+
+.image {
   text-align: center;
 }
