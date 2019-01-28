@@ -1,12 +1,12 @@
 h1 {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
   color: #ba4545;
   text-align: center;
   /*font-family: 'Special Elite', cursive;*/
 }
 
 h2 {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
   color: #c86a6a;
   text-align: center;
 }
@@ -26,18 +26,18 @@ body {
 }
 
 h3 {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
   color: #cf7d7d;
   text-align: center;
 }
 
 h4 {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
   color: #d68f8f;
 }
 
 p, ul {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
 }
 
 /*ul {
@@ -66,7 +66,7 @@ p, ul {
 }
 
 a {
-  font-family: klee, savoy;
+  font-family: klee, helvetica;
   color: #dda2a2;
 }
 
@@ -100,7 +100,7 @@ nav a:hover {
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
-  font-family: "Nanum Pen Script", savoy;
+  font-family: "Nanum Pen Script", helvetica;
 }
 
 .navHeader a:hover{
