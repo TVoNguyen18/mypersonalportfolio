@@ -1,14 +1,12 @@
 h1 {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
   color: #ba4545;
   text-align: center;
   /*font-family: 'Special Elite', cursive;*/
 }
 
 h2 {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
   color: #c86a6a;
   text-align: center;
 }
@@ -28,21 +26,18 @@ body {
 }
 
 h3 {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
   color: #cf7d7d;
   text-align: center;
 }
 
 h4 {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
   color: #d68f8f;
 }
 
 p, ul {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
 }
 
 /*ul {
@@ -71,8 +66,7 @@ p, ul {
 }
 
 a {
-  font-family: klee, serif;
-  font-family: helvetica, sans-serif;
+  font-family: klee, palatino, serif;
   color: #dda2a2;
 }
 
@@ -106,8 +100,7 @@ nav a:hover {
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
-  font-family: "Nanum Pen Script", serif;
-  font-family: helvetica, sans-serif;
+  font-family: "Nanum Pen Script", palatino, serif;
 }
 
 .navHeader a:hover{
