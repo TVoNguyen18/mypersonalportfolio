@@ -5,9 +5,9 @@ h1 {
   /*font-family: 'Special Elite', cursive;*/
 }
 
-h2 {
+h2, h3 {
   font-family: "Avant Garde", "Century Gothic", sans-serif;
-  color: #c86a6a;
+  color: #cf7d7d;
   text-align: center;
 }
 
@@ -25,11 +25,11 @@ body {
   border-style: dotted;
 }
 
-h3 {
+/*h3 {
   font-family: "Avant Garde", "Century Gothic", sans-serif;
   color: #cf7d7d;
   text-align: center;
-}
+}*/
 
 h4 {
   font-family: "Avant Garde", "Century Gothic", sans-serif;
