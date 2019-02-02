@@ -1,12 +1,12 @@
 h1 {
-  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
   color: #c86a6a;
   text-align: center;
   /*font-family: 'Special Elite', cursive;*/
 }
 
 h2, h3 {
-  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
   color: #cf7d7d;
   text-align: center;
 }
@@ -32,12 +32,12 @@ body {
 }*/
 
 h4 {
-  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
   color: #d68f8f;
 }
 
 p, ul {
-  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
 }
 
 /*ul {
@@ -66,7 +66,7 @@ p, ul {
 }
 
 a {
-  font-family: "Avant Garde", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
   color: #dda2a2;
 }
 
@@ -101,7 +101,7 @@ nav a:hover {
   text-align: center;
   text-decoration: none;
   /*font-family: "Nanum Pen Script", Palatino;*/
-  font-family: "Avant Garde", "Century Gothic", sans-serif;
+  font-family: "Avant Garde", "Century Gothic", "Hiragino Sans", sans-serif;
 }
 
 .navHeader a:hover{
