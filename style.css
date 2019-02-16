@@ -6,7 +6,7 @@ h1 {
 }
 
 h2, h3 {
-  font-family: consolas, "klee", sans-serif, serif;
+  font-family: "klee", consolas, sans-serif, serif;
   color: #cf7d7d;
   text-align: center;
 }
