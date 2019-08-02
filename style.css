@@ -1,13 +1,13 @@
 h1 {
   font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
-  color: #c86a6a;
+  color: #5d4954;
   text-align: center;
   /*font-family: 'Special Elite', cursive;*/
 }
 
 h2, h3 {
   font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
-  color: #cf7d7d;
+  color: #754f5b;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ body {
 
 h4 {
   font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
-  color: #d68f8f;
+  color: #7d6167;
 }
 
 p, ul {
@@ -48,27 +48,24 @@ p, ul {
 .stylediv1 {
   border-style: solid;
   border-width: thick;
-  border-color: #dda2a2;
-  opacity: 0.5;
+  border-color: #f9e0d9;
 }
 
 .stylediv2 {
   border-style: solid;
   border-width: medium;
-  border-color: #dda2a2;
-  opacity: 0.5;
+  border-color: #f9e0d9;
 }
 
 .stylediv3 {
   border-style: solid;
   border-width: thin;
-  border-color: #dda2a2;
-  opacity: 0.5;
+  border-color: #f9e0d9;
 }
 
 a {
   font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
-  color: #dda2a2;
+  color: #754f5b;
 }
 
 /*nav {
@@ -92,7 +89,7 @@ nav a:hover {
 
 .navHeader{
   font-size: 56px;
-  background-color: #b94646;
+  background-color: #754f5b;
   opacity: 0.50;
 }
 
@@ -106,7 +103,7 @@ nav a:hover {
 }
 
 .navHeader a:hover{
-  background-color: #a63f3f;
+  background-color: #e6dbd0;
   color: black;
 }
 
