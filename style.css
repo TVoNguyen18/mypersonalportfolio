@@ -27,7 +27,7 @@ body {
 
 h4 {
   font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
-  color: #FCB1A6;
+  color: #FB6376;
 }
 
 p, ul {
@@ -59,22 +59,12 @@ a {
   color: #FB6376;
 }
 
-/*nav {
-  font-size: 56px;
-  background-color: #b94646;
-  opacity: 0.50;
+#myAbout{
+  width: 50%;
+  border: 10px double #FB6376;
+  padding: 50px;
+  margin: auto;
 }
-nav a {
-  color: white;
-  padding: 8px 16px;
-  text-align: center;
-  text-decoration: none;
-  font-family: "Nanum Pen Script";
-}
-nav a:hover {
-  background-color: #a63f3f;
-  color: black;
-}*/
 
 #navHeader {
   overflow: hidden;
