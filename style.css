@@ -1,12 +1,13 @@
 h1 {
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  /*font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;*/
+  font-family: 'Klee One', cursive;
   color: #5EB1BF;
   text-align: center;
   /*font-family: 'Special Elite', cursive;*/
 }
 
 h2, h3 {
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  font-family: 'Klee One', cursive;
   color: #5EB1BF;
   text-align: center;
 }
@@ -26,12 +27,12 @@ body {
 }
 
 h4 {
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  font-family: 'Klee One', cursive;
   color: #FB6376;
 }
 
 p, ul {
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  font-family: 'Klee One', cursive;
 }
 
 .stylediv2 {
@@ -55,7 +56,7 @@ p, ul {
 */
 
 a {
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  font-family: 'Klee One', cursive;
   color: #FB6376;
 }
 
@@ -79,7 +80,7 @@ a {
   text-align: center;
   text-decoration: none;
   font-size: large;
-  font-family: "Avant Garde", "Century Gothic", "News Gothic MT", "klee", sans-serif, serif;
+  font-family: 'Klee One', cursive;
 }
 
 #navHeader a:hover{
